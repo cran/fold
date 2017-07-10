@@ -15,6 +15,6 @@ unfold(x, ...)
 Unfolds an object.
 }
 \seealso{
-\code{\link{unfold.folded}} \code{\link{unfold_}}
+\code{\link{unfold.folded}}
 }
 \keyword{internal}
