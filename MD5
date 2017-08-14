@@ -1,8 +1,8 @@
-6d680e7d52c7f2947941de5236f665b8 *DESCRIPTION
-acdb7dc05ce320b7d09f3481894f8577 *NAMESPACE
+a4faacf52b0be27714efe5d195025806 *DESCRIPTION
+b676324dfc199a575dc5303981461654 *NAMESPACE
 f8647e3e2914828d1950f6e5eab06fba *R/events.R
 cf614bd4ade7c57a518ce696af2497c6 *R/eventsf.R
-bf9609737e29ec39aa728f23ea51cf4f *R/meta.R
+3da47bae8a37049b11f60d93ad9fecec *R/meta.R
 72ad138e271837b97b5ae39a8090d111 *R/package-fold.R
 230cfb4829586f997653006debbf2b15 *data/events.rda
 c704f86ec2bec7229d7a83f158d5c89b *data/eventsf.rda
@@ -22,7 +22,7 @@ e83a179aec786a2dc3ced7325438c093 *man/distill.Rd
 c7cc0ea5c4683d2a5a93f35df5889919 *man/eventsf.Rd
 3cea96a7f9cd17590c8b04d94a1c57e2 *man/filter.folded.Rd
 1a2d53279ae9ae06dbacaa7650926e97 *man/fold.Rd
-73efe54bdf66729a26072657015fd362 *man/fold.data.frame.Rd
+34d5fc01bd6965a67f6964d1363b2359 *man/fold.data.frame.Rd
 b4b3177eed19ee8d19f016b091e8e8de *man/fold.grouped_df.Rd
 a3b53a89fafdf7fccfa41e590314a3f7 *man/foldpkg.Rd
 068dace49c4b862ecd8b9b9702fd3822 *man/group_by.folded.Rd
