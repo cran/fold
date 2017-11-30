@@ -1,7 +1,7 @@
 Package: fold
 Type: Package
 Title: A Self-Describing Dataset Format and Interface
-Version: 0.2.2
+Version: 0.2.4
 Author: Tim Bergsma
 Maintainer: Tim Bergsma <bergsmat@gmail.com>
 Description: Defines a compact data format that includes metadata. 
@@ -17,6 +17,6 @@ Suggests: magrittr, wrangle
 Depends: R (>= 2.10)
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2017-08-14 13:48:07 UTC; tbergsma
+Packaged: 2017-11-30 16:14:02 UTC; tbergsma
 Repository: CRAN
-Date/Publication: 2017-08-14 15:11:33 UTC
+Date/Publication: 2017-11-30 18:15:58 UTC
