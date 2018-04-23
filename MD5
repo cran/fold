@@ -1,9 +1,9 @@
-baec78fd9ab6fbd596fd80326cdb0ddf *DESCRIPTION
+667b2b4f952c2acea79cd68c06594ceb *DESCRIPTION
 2cbaff080496a03a36c7f6484ad7f79b *NAMESPACE
 f8647e3e2914828d1950f6e5eab06fba *R/events.R
 cf614bd4ade7c57a518ce696af2497c6 *R/eventsf.R
 71e2ce0e578ae1a0fef219a769fa3df1 *R/folded.R
-bed2c7ac9f7fa21539f3085f5214520e *R/meta.R
+80dc8d7aeedd381c053c70e8f1dbb7fd *R/meta.R
 975f8c43ff1348addcc68209d222cb78 *R/metaplot.R
 e51fe06f8539909d5558b8239dc7c727 *R/package-fold.R
 6fdf6df070aec0c88d514669ba3d53f2 *R/unfolded.R
